@@ -1,4 +1,4 @@
-# 🚀 AI Career Mentor | Powered by Gemini API
+#  AI Career Mentor | Powered by Gemini API
 
 ![Project Banner](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -8,7 +8,7 @@ This application acts as a personal mentor, conducting technical mock interviews
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Core
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,37 +21,24 @@ This application acts as a personal mentor, conducting technical mock interviews
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🤖 1. AI Mock Interviewer
+###  1. AI Mock Interviewer
 * Real-time technical interviews tailored to your stack (e.g., Python, React, Java).
 * **Gemini Pro** evaluates answers and provides instant feedback with a score (0-100).
 * Context-aware follow-up questions.
 
-### 🗺️ 2. Smart Roadmap Generator
+###  2. Smart Roadmap Generator
 * Generates step-by-step learning paths based on your current level and goals.
 * Provides curated resources (documentation, courses) for each topic.
 
-### 📄 3. CV & Resume Analysis
+###  3. CV & Resume Analysis
 * Parses user resume text.
 * Suggests improvements for ATS (Applicant Tracking Systems).
 * Highlights weak spots and formatting errors.
 
----
 
-## 📸 Screenshots
-
-### Dashboard & Chat Interface
-![Dashboard Interface](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
-*Interactive chat with the AI Mentor*
-
-### Learning Roadmap
-![Roadmap View](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
-*Personalized skill tree generation*
-
----
-
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 Clone the project and start the development server:
 
